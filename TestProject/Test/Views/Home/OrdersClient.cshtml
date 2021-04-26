@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Test.Models.Order>
+
+
+<div id="searchresults">
+    <h3>Orders Clients @ViewBag.ClientName</h3>
+    @foreach (var item in Model)
+            {
+                <ul>
+                    <li>
+                        @item.Number<br />
+                        @item.Description<br />
+                    </li>
+                </ul>
+            }
+</div>

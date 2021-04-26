@@ -1,0 +1,44 @@
+﻿@model Test.Models.Client
+
+@{
+    ViewBag.Title = "Удаление клиента";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Удаление клиента</title>
+</head>
+
+<body>
+    <h2>Удаление книги</h2>
+    <dl>
+        <dt>Имя клиента</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>Адрес</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>Наличие VIP-статуса</dt>
+        <dd>
+            @Html.CheckBoxFor(model => model.VIP)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        <input type="submit" value="Удалить" />
+    }
+    <br /><br />
+    <div>
+        @Html.ActionLink("Назад", "ViewClients")
+    </div>
+</body>
+</html>

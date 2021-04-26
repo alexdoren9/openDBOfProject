@@ -1,0 +1,44 @@
+﻿@model Test.Models.Order
+
+@{
+    ViewBag.Title = "Удаление заказа";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Удаление заказа</title>
+</head>
+
+<body>
+    <h2>Удаление заказа</h2>
+    <dl>
+        <dt>Номер заказа</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>Описание</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>Клиент</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Client.Name)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        <input type="submit" value="Удалить" />
+    }
+    <br /><br />
+    <div>
+        @Html.ActionLink("Назад", "ViewOrders")
+    </div>
+</body>
+</html>

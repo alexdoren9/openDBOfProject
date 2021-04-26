@@ -1,0 +1,45 @@
+﻿@model Test.Models.Order
+@{
+    ViewBag.Title = "Создание заказа";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script src='@Url.Content("~/Scripts/jquery-1.8.2.js")' type="text/javascript"></script>
+    <script src='@Url.Content("~/Scripts/jquery.validate.js")' type="text/javascript"></script>
+    <script src='@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")' type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>Создание нового клиента</title>
+</head>
+<body>
+
+    <h2>Создание нового заказа</h2>
+    @using (Html.BeginForm())
+    {
+<fieldset>
+    @Html.LabelFor(model => model.Number, "Номер заказа")
+    <br />
+    @Html.EditorFor(model => model.Number)
+    @Html.ValidationMessageFor(model => model.Number)
+    <br /><br />
+    @Html.LabelFor(model => model.Description, "Описание")
+    <br />
+    @Html.EditorFor(model => model.Description)
+    @Html.ValidationMessageFor(model => model.Description)
+    <br /><br />
+    @Html.Label("ФИО клиента");
+    <br />
+    @Html.DropDownListFor(model => model.ClientId, ViewBag.Clients as SelectList)
+    <br /><br />
+    <input type="submit" value="Создать" />
+</fieldset>
+    }
+    <div>
+        @Html.ActionLink("К списку заказов", "ViewOrders")
+    </div>
+
+</body>
+</html>

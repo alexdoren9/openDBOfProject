@@ -1,0 +1,47 @@
+﻿@model Test.Models.Client
+
+@{
+    ViewBag.Title = "Создание клиента";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src='@Url.Content("~/Scripts/jquery-1.8.2.js")' type="text/javascript"></script>
+    <script src='@Url.Content("~/Scripts/jquery.validate.js")' type="text/javascript"></script>
+    <script src='@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")' type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>Создание нового клиента</title>
+</head>
+<body>
+    <meta charset="utf-8">
+    <h2>Новый клиент</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(model => model.Name, "ФИО клиента")
+        <br />
+        @Html.EditorFor(model => model.Name)
+        @Html.ValidationMessageFor(model => model.Name)
+        <br /><br />
+        @Html.LabelFor(model => model.Address, "Адрес доставки")
+        <br />
+        @Html.EditorFor(model => model.Address)
+        @Html.ValidationMessageFor(model => model.Address)
+        <br /><br />
+        @Html.Label("VIP-статус");
+        <br />
+        @Html.CheckBoxFor(model => model.VIP, "VIP-статус")
+        <br /><br />
+        <input type="submit" value="Создать" />
+    }
+
+    <br /><br />
+    <div>
+        @Html.ActionLink("К списку клиентов", "ViewClients")
+    </div>
+</body>
+</html>

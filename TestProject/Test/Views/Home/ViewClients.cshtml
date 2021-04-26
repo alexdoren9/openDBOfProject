@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Клиенты";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Клиенты</title>
+</head>
+<body>
+    <div>
+            <h3>Список клиентов</h3>
+            <table>
+                <tr style="background-color: aqua">
+                    <td>
+                        <p>ФИО клиента</p>
+                    </td>
+                    <td>
+                        <p>Адрес доаставки</p>
+                    </td>
+                    <td>
+                        <p>VIP-статус</p>
+                    </td>
+                    <td>
+                        <p>Действие</p>
+                    </td>
+                </tr>
+                @foreach (var c in ViewBag.Clients)
+                {
+                    if (c.VIP == true)
+                    {
+                        <tr style="background-color: blue">
+                            <td>
+                                @c.Name
+                            </td>
+                            <td>
+                                @c.Address
+                            </td>
+                            <td>
+                                @c.VIP
+                            </td>
+                            <td>
+                                <a href="/Home/DeleteClient/@c.Id">Удалить</a>
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr>
+                            <td>
+                                @c.Name
+                            </td>
+                            <td>
+                                @c.Address
+                            </td>
+                            <td>
+                                @c.VIP
+                            </td>
+                            <td>
+                                <a href="/Home/DeleteClient/@c.Id">Удалить</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+            <a href="/Home/CreateClient">Создать клиента</a>
+    </div>
+</body>
+</html>
+

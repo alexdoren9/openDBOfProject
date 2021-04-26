@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Заказы";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Клиенты</title>
+</head>
+<body>
+    <div>
+            <h3>Список заказов</h3>
+            <table>
+                <tr style="background-color: aqua">
+                    <td>
+                        <p>Номер регистрации заказа</p>
+                    </td>
+                    <td>
+                        <p>Описание</p>
+                    </td>
+                    <td>
+                        <p>Действия</p>
+                    </td>
+                </tr>
+                @foreach (var o in ViewBag.Orders)
+                {
+                    <tr>
+                        <td>
+                            <p>@o.Number</p>
+                        </td>
+                        <td>
+                            <p>@o.Description</p>
+                        </td>
+                        <td>
+                            <a href="/Home/EditOrder/@o.Id">Редактировать</a> |
+                            <a href="/Home/DeleteOrder/@o.Id">Удалить</a>
+                        </td>
+                    </tr>
+
+                }
+            </table>
+            <a href="/Home/CreateOrder">Создать заказ</a>
+    </div>
+</body>
+</html>
+

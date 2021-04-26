@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <table>
+        <tr style="background-color: burlywood">
+            <td>
+                @Html.ActionLink("Главная", "Index")
+            </td>
+            <td>
+                @Html.ActionLink("Список клиентов", "ViewClients")
+            </td>
+            <td>
+                @Html.ActionLink("Список заказов", "ViewOrders")
+            </td>
+        </tr>
+    </table>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - ASP.NET MVC</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

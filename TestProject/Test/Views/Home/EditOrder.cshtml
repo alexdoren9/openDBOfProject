@@ -1,0 +1,47 @@
+﻿@model Test.Models.Order
+@{
+    ViewBag.Title = "Редактирование заказа";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Редактирование заказа</title>
+</head>
+<body>
+    <h2>Редактирование заказа</h2>
+
+    @using (Html.BeginForm())
+    {
+        <fieldset>
+            <legend>Заказ</legend>
+            @Html.HiddenFor(model => model.Id)
+
+            <p>
+                Номер заказа <br />
+                @Html.EditorFor(model => model.Number)
+            </p>
+
+            <p>
+                Описание <br />
+                @Html.EditorFor(model => model.Description)
+            </p>
+
+            <p>
+                Клиент <br />
+                @Html.DropDownListFor(model => model.ClientId, ViewBag.Clients as SelectList)
+            </p>
+            <p>
+                <input type="submit" value="Сохранить" />
+
+            </p>
+        </fieldset>
+    }
+    <div>
+        @Html.ActionLink("К списку заказов", "ViewOrders")
+    </div>
+</body>
+</html>

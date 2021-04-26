@@ -1,0 +1,206 @@
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Test.dll.config
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Test.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Test.pdb
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csc.exe
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csc.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csc.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csi.exe
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csi.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\csi.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.AppContext.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Console.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Net.Http.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\vbc.exe
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\vbc.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\vbc.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Antlr3.Runtime.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\EntityFramework.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\EntityFramework.SqlServer.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\MySql.Data.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\MySql.Data.Entity.EF6.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Newtonsoft.Json.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Net.Http.Formatting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Helpers.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Http.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Http.WebHost.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Mvc.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Optimization.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Razor.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\WebGrease.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\EntityFramework.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\EntityFramework.SqlServer.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\MySql.Data.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\MySql.Data.Entity.EF6.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Newtonsoft.Json.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Net.Http.Formatting.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Helpers.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Http.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Mvc.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Optimization.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.Razor.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Antlr3.Runtime.pdb
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Http.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\obj\Debug\Test.dll
+C:\Users\alexanderdorensky\source\repos\TestProject\Test\obj\Debug\Test.pdb
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Test.dll.config
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Test.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Test.pdb
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csc.exe
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csc.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csc.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csi.exe
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csi.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\csi.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.AppContext.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Console.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Net.Http.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\vbc.exe
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\vbc.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\vbc.rsp
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Antlr3.Runtime.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\EntityFramework.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\EntityFramework.SqlServer.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\MySql.Data.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\MySql.Data.Entity.EF6.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Newtonsoft.Json.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Net.Http.Formatting.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Helpers.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Http.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Http.WebHost.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Mvc.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Optimization.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Razor.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\WebGrease.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\EntityFramework.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\EntityFramework.SqlServer.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\MySql.Data.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\MySql.Data.Entity.EF6.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Newtonsoft.Json.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Net.Http.Formatting.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Helpers.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Http.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Mvc.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Optimization.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.Razor.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Antlr3.Runtime.pdb
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Http.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\obj\Debug\Test.dll
+C:\Users\alexanderdorensky\source\repos\TestProject — копия\Test\obj\Debug\Test.pdb
